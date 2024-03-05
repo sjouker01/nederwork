@@ -1,0 +1,26 @@
+{
+  "name": "nederwork",
+  "version": "1.0.0",
+  "description": "nederwork framwork normale frame work maar dan nedererlands",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjouker01/nederwork.git"
+  },
+  "keywords": [
+    "framwork",
+    "nedererlands",
+    "javasqript",
+    "css",
+    "styling"
+  ],
+  "author": "sjouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjouker01/nederwork/issues"
+  },
+  "homepage": "https://github.com/sjouker01/nederwork#readme"
+}
